@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf_8">
+  </head>
+  <body>
+    <h1>cachorro carequinha</h1>
+  </body>
+</html>
